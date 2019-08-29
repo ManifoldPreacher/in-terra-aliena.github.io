@@ -3,7 +3,7 @@ navbar:
   title: "Quod enim proderit?"
   left:
     - text: "Home"
-        href: home.html
+        href: index.html
     - text: "Publications and Projects"
         href: publications_projects.html
     - text: "Teaching"
