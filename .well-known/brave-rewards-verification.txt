@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: manifoldpreacher.github.io
+Token: 673149a63670a511e2bfdbbba43094fead91684a5291b653adf07f201dea39ae
