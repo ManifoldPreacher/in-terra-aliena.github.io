@@ -8,24 +8,28 @@ I do Quantitative Analysis, Statistical Forecasting, and Mathematical Modeling. 
 
 My hobbies include Catholic theology, Church Tradition, Medievalism, manga, the _Warhammer 40, 000_ franchise, and the _Total War_ franchise.
 
-|> "The wise man had eyes in his head, while the fool went his way benighted; but the ending of them? In their ending both were alike.
+  <div id="container">
+    <div id="left">
+
+> "The wise man had eyes in his head, while the fool went his way benighted; but the ending of them? In their ending both were alike.
 
 > His days all painfulness and care, his very nights restless; what is here but frustration? Were it not better to eat and drink, and toil only at his own pleasures? These, too, come from God’s hand; and who has better right to food tasted and pleasure enjoyed than I? Who wins God’s favor, has wisdom and skill for his reward, and pleasure too; it is the sinner that is doomed to hardship and to thankless care, hoarding and scraping, and all to enrich some heir God loves better! For him frustration,  for him the labor lost."
 
-- Ecclesiastes 2:14, 15, 22, 23-26 (Knox Translation, c/o Baronius Press)|
+- Ecclesiastes 2:14, 15, 22, 23-26 (Knox Translation, c/o Baronius Press)
 
-![Saint Hubertus](saint_hubertus.png#params)|
+    </div>
+    <div id="right">
+      
+![Saint Hubertus](saint_hubertus.png)
 
-|
-|---|---|
+</ br>
+~ Sance Huberte, Patronus Mathematicorum, Ora pro nobis ~ |
 
-| ~ Sance Huberte, Patronus Mathematicorum, Ora pro nobis ~ |
+    </div>
+    <div class="clear"></div>
+  </div>
 
 > We sat down by the streams of Babylon and wept there, remembering Sion. Willow-trees grow there, and on these we hung up our harps when the men who took us prisoner cried out for a song. We must make sport for our enemies; A stave, there, from the music they sing at Sion! What, should we sing the Lord’s song in a strange land? Jerusalem, if I forget thee, perish the skill of my right hand! Let my tongue stick fast to the roof of my mouth if I cease to remember thee, if I love not Jerusalem dearer than heart’s content! Remember, Lord, how the sons of Edom triumphed when Jerusalem fell; O’erthrow it, they cried, o’erthrow it, till the very foundation is left bare. Babylon, pitiless queen, blessed be the man who deals out to thee the measure thou hast dealt to us; blessed be the man who will catch up thy children, and dash them against the rocks!
 
 - Psalm 136 (Knox Translation, c/o Baronius Press) 
 
-img[src*="#params"] {
-   width:150px;
-   height:100px;
-}

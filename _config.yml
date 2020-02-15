@@ -1,6 +1,8 @@
-name: "In Terra Aliena"
+name: In Terra Aliena
+
 navbar:
     title: "In Terra Aliena"
+
     left:
     - text: "Publications and Projects"
       href: publications_projects.html
@@ -10,7 +12,7 @@ navbar:
       href: articles.html
     right:
     - icon: fa-envelope
-      href: mailto:adriel_ong@zoho.com
+      href: 
 
 output:
     html_document:
@@ -21,3 +23,6 @@ output:
         in_header: _header.html
     css: ../styles.css
     self_contained: false
+
+footer-links:
+    email: mailto:adriel_ong@zoho.com
