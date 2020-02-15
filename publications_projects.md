@@ -1,25 +1,8 @@
 ---
 title: "Publications and Projects"
 output: html_document
+layout: default
 ---
-<head>
-<style type ="text/css">
-body {background-color: #080828; margin:60px; padding:30px; font-family: serif;}
-h1 {color: white; font-family: serif; text-align:center;}
-h2 {color: white; font-family: serif; text-align:left;}
-h3 {color: white; font-family: serif; text-align:left;}
-h4 {color: white; font-family: serif; text-align:left;}
-h5 {color: white; font-family: serif; text-align:left;}
-p {color: white; text-align: justify; font-family: serif;}
-table {
-  border-collapse: separate;
-  border-spacing: 50px 0;
-}
-td {
-  padding: 10px 0;
-}
-</style>
-</head>
 
 ## [CV](CV.pdf)
 
@@ -40,6 +23,10 @@ Ong, A. (2018). Estimation of the Lane-Kilometer Elasticity of Metro Manila Traf
 _Please email me at adriel_ong@zoho.com for preprint copies_
 
 ## Consultancy Work
+
+### Hotel Feasibility Study
+
+In January 2020, client approached consultant to determine the feasibility of establishing a hotel near a tourist attraction. Consultant hired a data collector to obtain visitor, revenue, and geospatial data for statisticla analysis. Consulted obtained projected profits using quantitative methods.
 
 ### Employee Turnover Analysis
 
