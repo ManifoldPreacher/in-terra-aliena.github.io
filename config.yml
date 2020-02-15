@@ -1,7 +1,8 @@
 name: "In Terra Aliena"
 navbar:
-  title: "In Terra Aliena"
-  left:
+    title: "In Terra Aliena"
+
+    left:
     - text: "Publications and Projects"
       href: publications_projects.html
     - text: "Teaching"
