@@ -36,9 +36,6 @@ In January 2020, client company approached consultant for assistance in analyzin
 
 In November 2020, client company approached consultant for analysis in company's profitability. Consultant obtained company time-series data on employee productivity and performed market research to determine their effects on the company's profits. 
 
-</br>
-<blockquote style="text-align:justify; color: white;">
 "A man who governs his passions is master of the world. We must either rule them, or be ruled by them. It is better to be the hammer than the anvil."
-</br>
+
 - St. Dominic
-</blockquote>

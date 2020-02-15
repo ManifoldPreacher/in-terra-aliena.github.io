@@ -10,20 +10,20 @@ My hobbies include Catholic theology, Church Tradition, Medievalism, manga, the 
 
   <div id="container">
     <div id="left">
-
-> "The wise man had eyes in his head, while the fool went his way benighted; but the ending of them? In their ending both were alike.
-
-> His days all painfulness and care, his very nights restless; what is here but frustration? Were it not better to eat and drink, and toil only at his own pleasures? These, too, come from God’s hand; and who has better right to food tasted and pleasure enjoyed than I? Who wins God’s favor, has wisdom and skill for his reward, and pleasure too; it is the sinner that is doomed to hardship and to thankless care, hoarding and scraping, and all to enrich some heir God loves better! For him frustration,  for him the labor lost."
+<blockquote style="text-align:justify; color: white;">
+ "The wise man had eyes in his head, while the fool went his way benighted; but the ending of them? In their ending both were alike.
+</ br>
+ His days all painfulness and care, his very nights restless; what is here but frustration? Were it not better to eat and drink, and toil only at his own pleasures? These, too, come from God’s hand; and who has better right to food tasted and pleasure enjoyed than I? Who wins God’s favor, has wisdom and skill for his reward, and pleasure too; it is the sinner that is doomed to hardship and to thankless care, hoarding and scraping, and all to enrich some heir God loves better! For him frustration,  for him the labor lost."
 
 - Ecclesiastes 2:14, 15, 22, 23-26 (Knox Translation, c/o Baronius Press)
 
     </div>
     <div id="right">
       
-![Saint Hubertus](saint_hubertus.png)
+<img src="saint_hubertus.png" alt="Saint Hubertus" width="50%" />
 
 </ br>
-~ Sance Huberte, Patronus Mathematicorum, Ora pro nobis ~ |
+~ Sance Huberte, Patronus Mathematicorum, Ora pro nobis ~ 
 
     </div>
     <div class="clear"></div>
