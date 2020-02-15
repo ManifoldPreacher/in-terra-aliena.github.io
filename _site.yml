@@ -1,0 +1,23 @@
+name: "In Terra Aliena"
+navbar:
+  title: "In Terra Aliena"
+  left:
+    - text: "Publications and Projects"
+      href: publications_projects.md
+    - text: "Teaching"
+      href: teaching.md
+    - text: "Articles"
+      href: articles.md
+  right:
+    - icon: fa-envelope
+      href: mailto:adriel_ong@zoho.com
+
+output:
+  html_document:
+    theme: cosmo
+    highlight: textmate
+    include:
+      after_body: _footer.html
+      in_header: _header.html
+    css: ../styles.css
+    self_contained: false
