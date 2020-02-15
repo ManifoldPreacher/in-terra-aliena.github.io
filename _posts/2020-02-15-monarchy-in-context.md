@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Monarchy in Context"
+date: 2020-02-15
 ---
 
 # Introduction

@@ -26,7 +26,7 @@ _Please email me at adriel_ong@zoho.com for preprint copies_
 
 ### Hotel Feasibility Study
 
-In January 2020, client approached consultant to determine the feasibility of establishing a hotel near a tourist attraction. Consultant hired a data collector to obtain visitor, revenue, and geospatial data for statisticla analysis. Consulted obtained projected profits using quantitative methods.
+In January 2020, client approached consultant to determine the feasibility of establishing a hotel near a tourist attraction. Consultant hired a data collector to obtain visitor, revenue, and geospatial data for statistical analysis. Consulted obtained projected profits using quantitative methods.
 
 ### Employee Turnover Analysis
 
