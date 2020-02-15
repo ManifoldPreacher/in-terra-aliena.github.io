@@ -3,11 +3,11 @@ navbar:
   title: "In Terra Aliena"
   left:
     - text: "Publications and Projects"
-      href: publications_projects.md
+      href: publications_projects.html
     - text: "Teaching"
-      href: teaching.md
+      href: teaching.html
     - text: "Articles"
-      href: articles.md
+      href: articles.html
   right:
     - icon: fa-envelope
       href: mailto:adriel_ong@zoho.com
