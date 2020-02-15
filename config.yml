@@ -1,7 +1,7 @@
 name: "In Terra Aliena"
 navbar:
     title: "In Terra Aliena"
-
+    href: index.html
     left:
     - text: "Publications and Projects"
       href: publications_projects.html
