@@ -1,6 +1,0 @@
-Package: placeholder
-Type: Website
-Title: "In Terra Aliena"
-Version: 0.0.1
-Imports: rmarkdown
-Remotes: rstudio/rmarkdown
