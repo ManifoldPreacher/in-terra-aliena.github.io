@@ -1,17 +1,24 @@
 language: r
-cache: packages
-pandoc_version: 1.17.2
+latex: true
 
 branches:
-  only: source
+  only:
+    - master
+
+cache:
+  packages: yes
+  directories:
+    - $HOME/bin
 
 script:
-  - Rscript -e 'servr:::knit_maybe(c(".", "_source", "_posts"), c(".", "_posts", "_posts"), "build.R", "jekyll")'
-  
+  - Rscript -e 'rmarkdown::build_site()'
+
 deploy:
   provider: pages
   skip_cleanup: true
-  github_token: $GITHUB_PAT
+  github_token: $GITHUB_TOKEN
   on:
-    branch: source
+    branch: master
+  local_dir: public
+  repo: ManifoldPreacher/manifoldpreacher.github.io
   target_branch: master
