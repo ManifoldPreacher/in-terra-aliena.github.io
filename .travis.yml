@@ -11,6 +11,10 @@ cache:
   directories:
     - $HOME/bin
 
+env:
+  global:
+    secure: 820ce1dd1d7db8c8f424e17384f4d89a9ad2d366
+
 script:
   - Rscript -e 'rmarkdown::render_site()'
 
