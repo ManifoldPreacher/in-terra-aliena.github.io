@@ -13,3 +13,8 @@ table {
 blockquote {
   font-family: bookman, Bookman URW, Perpetua, Garamond, Times, Times New Roman; font-size: medium; text-align:justify; color:white;
 }
+.center
+{
+ text-align:center;
+ display:block;
+}
